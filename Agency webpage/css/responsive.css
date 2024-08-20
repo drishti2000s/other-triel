@@ -1,0 +1,460 @@
+@media screen and (min-width:1180px) and (max-width:1200px){
+   
+ 
+  /* .section1 img{
+    width: 100%;
+    position: relative;
+    }  */
+
+.card2  {
+    width: 48%;
+    padding-top: 25px;
+}
+ .card3{
+    width: 48%;
+} 
+.card1{
+    width: 31%;
+}
+.content{
+    top: 15%;
+    left: 29%;
+}
+.n3{
+    padding-left: 60px;
+    padding-right: 60px;
+    gap: 40px;
+}
+
+.n6{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.content h1{
+    font-size: 40px;
+}
+.content p{
+    font-size: 17px;
+}
+.head2 a{
+    font-size: 26px;
+}
+
+.card{
+    padding-right: 20px;
+    padding-left: 20px;
+    bottom: 110px;
+}
+.card strong{
+    font-size: 27px;
+}
+.card p{
+    font-size: 17px;
+}
+
+a{
+  font-size: 20px;  
+}
+.card2 p{
+    font-size: 20px;
+}
+.card2 i{
+    font-size: 35px;
+}
+.section3{
+    padding-top: 50px;
+}
+.section4{
+    padding-top: 50px;
+}
+.card3 strong{
+    font-size: 27px;
+}
+.card3 p{
+    font-size: 20px;
+}
+.section5{
+    padding-top: 50px;
+}
+
+.n7 h3{
+    font-size: 29px;
+}
+.content2 h2{
+    font-size: 35px;  
+}
+.content2 p{
+    font-size: 19px;
+}
+.right li{
+    font-size: 19px;
+}
+
+.image2{
+    width: 45%;
+}
+}
+
+@media screen and (max-width:991px){
+ .content{
+    top: 14%;
+    left: 29%;
+ }        
+.card{
+    justify-content: center;
+    gap: 10px;
+}
+.n1{
+    justify-content: center;
+}
+.content2{
+    padding-left: 0;
+}
+.image2{
+    padding-right: 0;
+}
+
+.image2 img{
+    width: 100%;
+}
+.content2 h2{
+    font-size: 33px;
+}
+
+.content2 p{
+    font-size: 17px;
+}
+.card2{
+    width: 30%;
+}
+.section2{
+ padding-top: 0;   
+}
+
+.card3{
+    width: 47%;
+}
+
+.n6{
+    justify-content: center;
+}
+
+.card4{
+    width: 48%;
+}
+
+.icon{
+    width: 25%;
+}
+.number{
+    width: 70%;
+     /* padding-left: 10px; */
+} 
+.n{
+    width: 23%;
+    justify-content: space-between;
+}
+.n5 h2{
+    font-size: 30px;
+}
+
+.card3 strong{
+    font-size: 23px;
+}
+
+.card3 p{
+    font-size: 18px;
+}
+
+.n7 h3{
+    font-size: 30px;
+}
+
+.section6 h3{
+    font-size: 30px;
+}
+
+.n10 h3{
+    font-size: 30px;
+}
+.card4 span{
+    font-size: 20px;
+}
+
+.text1{
+    top: 16px;
+}
+.diku2 strong{
+    font-size: 17px;
+}
+
+.text2 p{
+    font-size: 22px;
+}
+
+.pre a{
+    padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:767px){
+.container{
+    max-width: 700px;
+    margin: auto;
+}
+.section1 img{
+    position: initial;
+}
+.card2{
+    width: 49%;
+}
+.content{
+    width: 50%;
+    position: initial;
+    margin: auto;
+} 
+ .card{
+    position: initial;
+    padding-top: 153px;
+} 
+ .content2{
+    padding-left: 0;
+} 
+.content2 h2{
+    margin-bottom: 0;
+}
+.image2{
+    padding-right: 0;
+    width: 50%;
+}
+.card3{
+    width: 48%;
+}
+.n3{
+    row-gap: 22px;
+}
+.log1{
+    padding: 15px;
+}
+.card4{
+    width: 90%;
+}
+.n11{
+    gap: 30px;
+}
+.text1{
+    width: 11%;
+}
+.imgfoot{
+    width: 95%;
+}
+
+.n{
+    /* padding-left: 0; */
+    width: 48%;
+}
+.icon{
+    width: 25%;
+}
+.number{
+    width: 70%;
+     /* padding-left: 10px; */
+} 
+.section3{
+    padding-top: 50px;
+}
+.card p{
+    font-size: 14px;
+}
+
+a{
+    font-size: 17px;
+}
+
+
+
+
+
+
+}
+   
+@media screen and (max-width:525px){
+  .content{
+   width: 75%; 
+  }  
+.content p{
+font-size: 14px;
+}
+.content h1{
+    margin-bottom: 0;
+}
+.card1{
+    width: 90%;
+}
+.card{
+    justify-content: center;
+    gap: 35px;
+}
+.content2{
+    width: 80%;
+}
+.image2{
+    width: 80%;
+}
+.n1{
+    justify-content: center;
+    gap: 37px;
+}
+
+.section2{
+    padding-top: 0;
+}
+
+.n6{
+    justify-content: center;
+}
+.card3{
+    width: 98%;
+}
+.card2{
+    width: 48%;
+}
+.n8{
+    justify-content: center;
+    gap: 20px;
+}
+.icon i{
+    font-size: 42px;
+}
+.number strong{
+    font-size: 25px;
+}
+.number p{
+    font-size: 14px;
+}
+
+.n9{
+    justify-content: center;
+}
+.log1{
+    width: 20%;
+}
+.imgfoot{
+    padding-top: 20px;
+}
+.icon{
+    width: 25%;
+}
+
+.text2{
+    width: 100%;
+}
+.text2 p{
+    font-size: 22px;
+}
+.text2 a{
+    padding-bottom: 7px;
+}
+.log1{
+    width: 43%;
+}
+.log1 img{
+    width: 80%;
+}
+
+}
+
+
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

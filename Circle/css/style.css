@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(230, 230, 229);
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.d2 i{
+    padding-left: 27px;
+    padding-top: 22px;
+  font-size: 46px; 
+  color: white;
+    /* height: 93px; */
+    width: 93px;
+    border-radius: 50%;
+    background-color: rgb(215, 90, 27);
+    outline: 10px solid white;
+    position: absolute;
+    z-index: 1;
+    left: 57%;
+    top: 24%;
+    padding-bottom: 22px;
+}
+
+.d h2{
+    font-size: 35px;
+    color: orangered;
+    padding-top: 30px;
+}
+.d2{
+    width: 40%;
+    background-color: rgb(239, 84, 27);
+    padding: 13px 30px 30px 64px; 
+    box-shadow: 30px rgb(4, 4, 4);
+    border-left: 15px solid white;
+    box-shadow: 0px 0px 24px 6px black inset;
+    
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    gap: 15px;
+    position: relative;
+}
+.section1{
+    padding-top: 60px;
+}
+ .d i{
+    padding-top: 73px; 
+    padding-left: 15px;
+    padding-right: 48px;
+    color: rgb(147, 143, 143);
+    
+} 
+.d2 h2{
+    color: white;
+    font-size: 25px;
+}
+
+.d2 p{
+    font-size: 13px;
+    width: 300px;
+}
+
+.d{
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(57, 154, 239);
+}
+.n h2{
+    color: rgb(57, 154, 239) ;
+}  
+
+.n2 {
+    background-color:  rgb(57, 154, 239) ;
+}
+
+.n2 i{
+    background-color: rgb(57, 154, 239) ;
+}
+.n3 h2{
+    color: rgb(50, 172, 50) ;
+}  
+
+.n4 {
+    background-color: rgb(50, 172, 50) ;
+}
+
+.n4 i{
+    background-color: rgb(50, 172, 50) ;
+}
+
+.n5 h2{
+    color: rgb(211, 237, 42) ;
+}  
+
+.n6 {
+    background-color: rgb(211, 237, 42) ;
+}
+
+.n6 i{
+    background-color:  rgb(211, 237, 42) ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
